@@ -1,0 +1,18 @@
+.main-container{
+    font-family: monospace;
+    font-weight: 500;
+    color:darkgoldenrod;
+}
+
+@media(max-width: 900px){
+    .main-container{
+        color: brown;
+    }
+}
+
+@media(max-width: 500px){
+    .main-container{
+        font-family: fantasy;
+        color: blueviolet;
+    }
+}

@@ -1,0 +1,28 @@
+main{
+    width: 63%;
+    margin: auto;
+}
+
+.picture{
+    height: 200px;
+    width: 300px;
+}
+.box{
+    border: 0px;
+    border-style: solid;
+    width: 300px;
+    text-align: center;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.content{
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.readmebutton{
+    background-color: cadetblue;
+    color: white;
+    border: none;
+    height: 26px;
+}

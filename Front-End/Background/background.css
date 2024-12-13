@@ -1,0 +1,9 @@
+.maincontainer{
+    /* width: 900px; */
+    border: 1px solid red;
+    background-image: url(../HTML/Image/2815428.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-x: center;
+    background-position-y: center;
+}

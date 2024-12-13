@@ -1,0 +1,19 @@
+.inlinebox{
+    background-color: aqua;
+    display: inline;
+}
+
+.blockbox{
+    background-color: brown;
+    display: block;
+}
+
+.inlineblockbox{
+    background-color: blueviolet;
+    display: inline-block;
+}
+
+.nonebox{
+    background-color: burlywood;
+    display: none;
+}

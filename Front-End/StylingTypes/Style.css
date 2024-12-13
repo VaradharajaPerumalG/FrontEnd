@@ -1,0 +1,15 @@
+strong{
+    color:cadetblue; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.HEAD1{
+    color: black; font-family: 'Times New Roman', Times, serif; font-size: 40px; 
+}
+
+#HEAD2{
+    color: darkred; font-family: sans-serif;
+}
+
+.select,#types{
+    font-family: fantasy; font-size: 30px; background-color: aquamarine;
+}

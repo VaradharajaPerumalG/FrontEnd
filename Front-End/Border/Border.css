@@ -1,0 +1,10 @@
+.container{
+    background-image: url(../HTML/Image/dataspell_icon.svg);
+    border: 10px solid red;
+    height: 1000px;
+    width: 7000px;
+    padding: 30px;
+    background-repeat: no-repeat;
+    background-origin: border-box;
+    
+}

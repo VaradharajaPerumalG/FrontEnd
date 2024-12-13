@@ -1,0 +1,26 @@
+.main-container{
+    border: 1px solid black;
+    height: 400px;
+    width: 350px;
+}
+
+.box1, .box2, .box3{
+    height: 100px;
+    width: 170px;
+}
+
+.box1{
+    background-color: aquamarine;
+    /* position: static; */
+    position: relative;
+    left: 50px;
+}
+
+.box2{
+    background-color: blueviolet;
+    position: fixed
+}
+
+.box3{
+    background-color: cadetblue;
+}

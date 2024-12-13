@@ -1,0 +1,149 @@
+main{
+    width: 80%;
+    margin: auto;
+    background-color: whitesmoke;
+    border: 2px solid black;
+    height: 500px;
+    width: 800px;
+    font-family: sans-serif;
+}
+
+.head{
+    font-family: sans-serif;
+    font-weight: 550;
+    font-size:x-large;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    margin-top: 20px;
+}
+
+.sub{
+    text-align: center;
+    margin: 5px;
+    font-family: sans-serif;
+    font-size: 14px;
+    color: #302f2f;
+}
+
+.container1{
+    width: 204px;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    border: 0px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    height: 280px;
+    margin-top: 20px;
+
+}
+
+.container2{
+    width: 220px;
+    color: white;
+    text-align: center;
+    background-color: #60cae3;
+    border-radius: 10px;
+    border: 0px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    height: 316px;
+}
+
+.mainhead{
+    font-weight: 600;
+    color: #4d4c4c;
+}
+
+.mainhead1{
+    font-weight: 600;
+    color: white;
+    font-size: larger;
+}
+
+.amount{
+    font-size: 37px;
+    font-weight: 600;
+    margin: 10px;
+    margin-bottom: 0px;
+}
+
+.amount1{
+    font-size: 40px;
+    font-weight: 600;
+    margin: 10px;
+    margin-bottom: 0px;
+    color: white;
+}
+
+.month{
+    margin: -3px;
+    font-size: smaller;
+    margin-bottom: 24px;
+}
+
+.month1{
+    margin: -3px;
+    font-size: smaller;
+    margin-bottom: 24px;
+    color: white;
+}
+
+.text{
+    margin: 10px;
+    font-size: 13px;
+    color: #4d4c4c;
+}
+
+.text1{
+    margin: 10px;
+    font-size: 15px;
+    color: white;
+}
+
+.line{
+    margin: 2px;
+}
+
+.subscribe{
+    margin: 13px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    background-color: #60cae3;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-weight: 600;
+}
+
+.subscribe1{
+    margin: 13px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    background-color: white;
+    color: #60cae3;
+    border: none;
+    border-radius: 4px;
+    font-size: larger;
+    font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* .container{
+    border: 2px solid black;
+    width: 200px;
+    text-align: center;
+    padding-bottom: 15px;
+} */
