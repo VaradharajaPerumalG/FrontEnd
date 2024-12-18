@@ -2,6 +2,7 @@
     border: 1px solid black;
     height: 400px;
     width: 350px;
+    position: relative;
 }
 
 .box1, .box2, .box3{
@@ -12,13 +13,18 @@
 .box1{
     background-color: aquamarine;
     /* position: static; */
-    position: relative;
-    left: 50px;
+    /* position: relative;
+    left: 50px; */
+    /* position: absolute;
+    left: 180px; */
+    position: sticky;
+    top: 0;
 }
 
 .box2{
     background-color: blueviolet;
-    position: fixed
+    position: fixed;
+    bottom: 200px;
 }
 
 .box3{

@@ -1,0 +1,11 @@
+@import "./variable.scss";
+
+.main-box {
+    height: 50px;
+    width: 80px;
+    border: 1px solid black;
+    padding: 30px;
+    background-color: $bg-color;
+    font-family: $Text-font;
+    font-weight: 600;
+}
